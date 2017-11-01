@@ -4,5 +4,6 @@
 4,change git 2
 5,add licencs
 6,test diff
-7,tracks changes
+7,tracks changes of files
+8,tracks add
 
